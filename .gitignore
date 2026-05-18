@@ -1,0 +1,31 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PHP / Composer
+vendor/
+composer.phar
+composer.lock
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local server / environment configuration
+.env
+.env.local
+.env.*.local
+.phpunit.result.cache
+
+# Logs and dumps
+*.log
+*.sql
+*.sqlite
+*.dump
